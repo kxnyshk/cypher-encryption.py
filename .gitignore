@@ -1,2 +1,4 @@
 __pycache__
 .gitattributes
+*.html linguist-detectable=false
+*.tex linguist-detectable=false
